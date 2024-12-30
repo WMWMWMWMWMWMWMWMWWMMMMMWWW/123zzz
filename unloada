@@ -1,5 +1,5 @@
 local Sense = loadstring(game:HttpGet('https://sirius.menu/sense'))()
-Sense.Unload()
+Sense.Load()
 
 Sense.teamSettings.enemy.enabled = false
 
